@@ -36,7 +36,7 @@ Your deployment will have at least one central site (also called a datacenter, t
 
 - Enterprise Edition Front End pool includes:
 
-  - One or more Front End Servers (Ideally at least three, for scalability), with a maximum of twelve. Load-balancing would be required for more than one server.
+  - One or more Front End Servers (Ideally at least three, for scalability), with a maximum of sixteen. Load-balancing would be required for more than one server.
 
   - A separate Back End Server.
 
